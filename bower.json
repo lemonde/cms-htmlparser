@@ -1,6 +1,6 @@
 {
   "name": "cms-htmlparser",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "homepage": "http://ejohn.org/blog/pure-javascript-html-parser/",
   "description": "parser html from John Resig",
   "ignore": [
